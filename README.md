@@ -1,7 +1,10 @@
 # AdvancedCertificateGenerator
 This is my first solo Python Project YIPEEEEEEEEEEEEEEEEE! Open sourced :) Please feel free to make improvements.
 
-# Pre-Requisites
+You can either run main.py after installing the dependencies or straight away use the executable. 
+
+
+# Pre-Requisites ( For those using python script only )
 https://github.com/TomSchimansky/CustomTkinter
 Please install the following prerequisites : Customtkinter and PIL (Pillow)
 ```pip3 install Pillow```
