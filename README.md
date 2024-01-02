@@ -1,6 +1,12 @@
 # AdvancedCertificateGenerator
 This is my first solo Python Project YIPEEEEEEEEEEEEEEEEE! Open sourced :) Please feel free to make improvements.
 
+# Pre-Requisites
+https://github.com/TomSchimansky/CustomTkinter
+Please install the following prerequisites : Customtkinter and PIL (Pillow)
+```pip3 install Pillow```
+```pip3 install customtkinter,```
+
 
 # Size
 Change Canvas Size according to your size of certificate, currently it is fixed at A4 Size at 96 DPI. (Good Enough for prints) 
